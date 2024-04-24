@@ -27,9 +27,4 @@
 ------------------
 
 - 고정현
-  - (기여한 내용) 
-  - GitHub : https://github.com/JeonghyunKo
- 
 - 주재훈
-  - (기여한 내용)
-  - GitHub : 
